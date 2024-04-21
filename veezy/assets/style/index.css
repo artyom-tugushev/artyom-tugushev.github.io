@@ -52,10 +52,13 @@
 }
 .header .logo {
   margin-right: 1.5rem;
+  width: 128px;
+  height: 32px;
 }
 .header .menu-button {
   cursor: pointer;
   border: none;
+  color: #08040d;
   background-color: #ffffff;
   font-size: 1rem;
   padding: 8px;
