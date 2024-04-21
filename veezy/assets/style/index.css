@@ -140,7 +140,7 @@
   padding: 0.5rem 0;
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1060px) {
   .logo {
     width: 100px;
     height: 25px;
@@ -164,7 +164,7 @@
     font-size: 0.9rem;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 840px) {
   .buttons {
     flex-wrap: wrap;
   }
